@@ -22,8 +22,8 @@ avatar_image: "/img/profile_picture.JPG"
 
 #-------------------------------
 # Contact links
-linkedln: "https://linkedln.com/marzena-pugo" 
-github: "https://github.com/MazPugo" 
+linkedln: "https://linkedin.com/in/marzena-pugo-4721275/" 
+github: "https://github.com/MazPugo/" 
 
 paginate: 6
 paginate_path: "/page/:num"
